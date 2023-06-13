@@ -1,2 +1,3 @@
 # go-tour
-Solve all exercises on Go Tour
+
+Solving all exercises on Go Tour!
